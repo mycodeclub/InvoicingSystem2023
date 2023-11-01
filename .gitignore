@@ -1,1 +1,5 @@
 /.vs/
+/InvoicingSystem/bin/
+/InvoicingSystem/obj/
+/InvoicingSystem.DTO/obj/
+/InvoicingSystem.DTO/bin/
